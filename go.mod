@@ -65,7 +65,7 @@ require (
 	github.com/hashicorp/hil v0.0.0-20170627220502-fa9f258a9250
 	github.com/hashicorp/logutils v0.0.0-20150609070431-0dc08b1671f3
 	github.com/hashicorp/memberlist v0.1.3 // indirect
-	github.com/hashicorp/serf v0.0.0-20160124182025-e4ec8cc423bb // indirect
+	github.com/hashicorp/serf v0.8.2-0.20171022020050-c20a0b1b1ea9 // indirect
 	github.com/hashicorp/vault v0.0.0-20161029210149-9a60bf2a50e4
 	github.com/hashicorp/yamux v0.0.0-20160720233140-d1caa6c97c9f // indirect
 	github.com/jen20/awspolicyequivalence v0.0.0-20170831201602-3d48364a137a // indirect
